@@ -6,6 +6,18 @@ List of team members:
        
 Description of the project: The StreetVendorAPI is an API (Application Programming Interface) designed to support street vendors in managing their businesses more efficiently. It provides a platform for vendors to showcase their products, handle orders, and manage inventory. The API aims to empower street vendors by enabling them to reach a wider customer base, streamline their operations, and improve their overall business performance.
 
+Backend development
+
+The backend of the StreetVendorAPI is developed using Python and Django. Django is a popular web framework that makes it easy to develop and deploy web applications. The backend is responsible for storing and retrieving data, processing requests, and generating responses.
+
+The backend is divided into three main components:
+
+    1. The database: The database stores all of the data for the API, such as product listings, order 2. information, and inventory levels.
+    2. The application logic: The application logic is responsible for processing requests from vendors and customers.
+    3. The API: The API is the interface that allows vendors and customers to interact with the backend.
+    The backend is hosted on a cloud server to ensure that it is always available. The server is also equipped with a firewall to protect the data from unauthorized access.
+
+
 Features of the StreetVendorAPI:
 
 Showcase products: The StreetVendorAPI allows vendors to create a digital storefront where they can showcase their products to a wider audience.
